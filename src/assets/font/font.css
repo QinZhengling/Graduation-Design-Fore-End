@@ -1,0 +1,52 @@
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "AlibabaHuPu Bold";
+  font-weight: 700;
+  src: url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/DJR4NXsq84WDW6W1l_xb_.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/BrM59P9fA2WJtmzTt0AyE.woff") format("woff");
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./Poppins-Regular.ttf") format("woff2");
+  font-display: swap;
+}
+
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "阿里巴巴普惠体 2.0 65 Medium";font-weight: 500;src: url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/NUrUTfQAveHz.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/NfEq30OALCXy.woff") format("woff");
+  font-display: swap;
+}
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "阿里妈妈东方大楷 Regular";font-weight: 400;src: url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/kBVcVAIoc7VR.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/QbXfPTYFtoq7.woff") format("woff");
+  font-display: swap;
+}
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "思源黑体 Medium";font-weight: 500;src: url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/QnlgZmLciaXG.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/SXd6RSQLICrh.woff") format("woff");
+  font-display: swap;
+}
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "钉钉进步体 Regular";font-weight: 400;src: url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/RbXCzApBuQcW.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/cusXdn7mJFG5.woff") format("woff");
+  font-display: swap;
+}
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "得意黑 斜体";font-weight: 400;src: url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/IHp1jE5koket.woff2") format("woff2"),
+  url("//at.alicdn.com/wf/webfont/HeqYp1c0TNds/cpOVNKXafbJv.woff") format("woff");
+  font-display: swap;
+}
+ @font-face {
+      font-family: "站酷高端黑 Regular";
+      font-weight: 400;src: url("//at.alicdn.com/wf/webfont/CMLt9HVp5N87/tbHddmDWiU1GEuhi4nhKp.woff2") format("woff2"),
+      url("//at.alicdn.com/wf/webfont/CMLt9HVp5N87/WGIJOcs-yNAu59k-p4jVL.woff") format("woff");
+      font-display: swap;
+}
